@@ -5,7 +5,6 @@ import { Skills } from "./section/Skills";
 import { Projects } from "./section/Projects";
 import { Contact } from "./section/Contact";
 import { Footer } from "./section/Footer";
-import { Analytics } from "@vercel/analytics/react";
 
 function App() {
   return (
@@ -17,7 +16,6 @@ function App() {
       <Projects></Projects>
       <Contact></Contact>
       <Footer></Footer>
-      <Analytics />
     </div>
   );
 }
