@@ -2,14 +2,14 @@ import React from "react";
 
 export const Skills = () => {
   const skills = [
-    { name: "HTML", logo: "/src/assets/html.png" },
-    { name: "CSS", logo: "/src/assets/css.png" },
-    { name: "JavaScript", logo: "/src/assets/javascript.png" },
-    { name: "React", logo: "/src/assets/react.png" },
-    { name: "Bootstrap", logo: "/src/assets/bootstrap.png" },
-    { name: "Tailwind CSS", logo: "/src/assets/tailwind.png" },
-    { name: "Node JS", logo: "/src/assets/node.png" },
-    { name: "Express JS", logo: "/src/assets/express.png" },
+    { name: "HTML", logo: "/html.png" },
+    { name: "CSS", logo: "/css.png" },
+    { name: "JavaScript", logo: "/javascript.png" },
+    { name: "React", logo: "/react.png" },
+    { name: "Bootstrap", logo: "/bootstrap.png" },
+    { name: "Tailwind CSS", logo: "/tailwind.png" },
+    { name: "Node JS", logo: "/node.png" },
+    { name: "Express JS", logo: "/express.png" },
   ];
 
   return (

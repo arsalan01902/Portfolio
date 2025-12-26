@@ -10,7 +10,7 @@ export const Navbar = () => {
           rounded-2xl px-4 sm:px-8 py-3 sm:py-4 shadow-lg"
         >
           <img
-            src="/src/assets/sign.png"
+            src="/sign.png"
             alt="Logo"
             className="h-10 sm:h-12 object-contain mx-auto sm:mx-0"
           />

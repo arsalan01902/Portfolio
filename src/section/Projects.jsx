@@ -22,7 +22,7 @@ export const Projects = () => {
       >
         <div className="p-3 sm:p-4">
           <img
-            src="/src/assets/Project.png"
+            src="/Project.png"
             alt="C# Entity Framework Desktop Application"
             className="w-full h-48 sm:h-56 object-contain
             rounded-md bg-fuchsia-900/40"

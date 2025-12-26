@@ -27,7 +27,7 @@ export const Footer = () => {
             className="hover:scale-110 transition-transform"
           >
             <img
-              src="/src/assets/github.png"
+              src="/github.png"
               alt="GitHub"
               className="w-5 h-5 sm:w-6 sm:h-6 object-contain"
             />
@@ -38,7 +38,7 @@ export const Footer = () => {
             className="hover:scale-110 transition-transform"
           >
             <img
-              src="/src/assets/gmail.png"
+              src="/gmail.png"
               alt="Gmail"
               className="w-5 h-5 sm:w-6 sm:h-6 object-contain"
             />
@@ -51,7 +51,7 @@ export const Footer = () => {
             className="hover:scale-110 transition-transform"
           >
             <img
-              src="/src/assets/linkedin.png"
+              src="/linkedin.png"
               alt="LinkedIn"
               className="w-5 h-5 sm:w-6 sm:h-6 object-contain"
             />
