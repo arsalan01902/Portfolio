@@ -9,7 +9,7 @@ export const Home = () => {
     >
       <img
         src="/avatar.avif"
-        alt="Profile Picture"
+        alt=""
         className="w-40 h-40 sm:w-52 sm:h-52 md:w-60 md:h-60
         rounded-full object-cover border-4 border-fuchsia-950"
       />
