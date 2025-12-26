@@ -36,7 +36,7 @@ export const Home = () => {
           hover:scale-105 hover:bg-fuchsia-900 hover:border hover:border-gray-500
           mx-auto md:mx-0"
         >
-          <a href="/public/Arsalan_Resume.pdf" target="_blank" rel="noreferrer">
+          <a href="/Arsalan_Resume.pdf" target="_blank" rel="noreferrer">
             View Resume
           </a>
         </div>
